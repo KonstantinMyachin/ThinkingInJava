@@ -18,7 +18,7 @@ Some sources were used from [Thinking In Java 4 Source Code](https://github.com/
 - [Holding Your Objects](https://github.com/KonstantinMyachin/ThinkingInJava/tree/master/src/main/java/ru/myachin/holding)
 - [Error Handling with Exceptions](https://github.com/KonstantinMyachin/ThinkingInJava/tree/master/src/main/java/ru/myachin/exceptions)
 - [Strings](https://github.com/KonstantinMyachin/ThinkingInJava/tree/master/src/main/java/ru/myachin/strings)
-- [Type Information](https://github.com/KonstantinMyachin/ThinkingInJava/tree/master/src/src/main/java/ru/myachin/typeinfo)
+- [Type Information](https://github.com/KonstantinMyachin/ThinkingInJava/tree/master/src/main/java/ru/myachin/typeinfo)
 - [Generics](https://github.com/KonstantinMyachin/ThinkingInJava/tree/master/src/main/java/ru/myachin/generics)
 - [Arrays](https://github.com/KonstantinMyachin/ThinkingInJava/tree/master/src/main/java/ru/myachin/arrays)
 - [Containers in Depth](https://github.com/KonstantinMyachin/ThinkingInJava/tree/master/src/main/java/ru/myachin/containers)
